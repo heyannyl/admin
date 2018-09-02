@@ -10,7 +10,13 @@
       <MenuItem name="1-3">
         <router-link to="demo2">
         评论管理2
-      </router-link></MenuItem>
+      </router-link>
+      </MenuItem>
+      <MenuItem name="1-4">
+        <router-link to="demo3">
+          wangEditor
+        </router-link>
+      </MenuItem>
       <!--<template slot="title">-->
         <!--<Icon type="ios-paper" />-->
         <!--内容管理-->
